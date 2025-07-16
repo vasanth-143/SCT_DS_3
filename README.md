@@ -1,3 +1,4 @@
+# SCT_DS_3
 =>>Predicting Customer Decisions with a Decision Tree
 In this project, I explored real-world  **Bank marketing data** from a Portuguese bank to predict whether a customer will subscribe to a **term deposit**. I used a **Decision Tree Classifier** and visualized the model in a way that's both informative and easy to understand.
 
